@@ -15,7 +15,7 @@ from .decoder import allcall
 from .decoder import surv
 from .decoder import bds
 from .extra import aero
-from .extra import tcpclient
+#from .extra import tcpclient
 
 __all__ = [
     "common",
